@@ -61,8 +61,8 @@ _**D1 Mini**_
 
 amount| article         |example order link
 ---|-----------------|----
-1| D1 ESP8266 mini |https://www.amazon.de/gp/product/B0CB85Q78G
-1| level shifter   |https://www.amazon.de/gp/product/B082F6BSB5
+1| D1 ESP8266 mini |https://www.amazon.de/gp/product/B0D66LXTTK
+1| level shifter   |https://www.amazon.de/gp/product/B0DWV8R2SM
 
 Wiring:
 
@@ -93,7 +93,7 @@ _**Raspberry Pi Pico**_
 amount| article           |example order link
 ---|-------------------|----
 1| Raspberry Pi Pico |https://www.amazon.de/gp/product/B09KVB8LVR
-1| level shifter     |https://www.amazon.de/gp/product/B082F6BSB5
+1| level shifter     |https://www.amazon.de/gp/product/B0DWV8R2SM
 
 Wiring:
 
@@ -129,7 +129,7 @@ if you already have one.
 amount| article       |example order link
 ---|---------------|----
 1| Teensy 4.0    |https://www.amazon.de/gp/product/B07W5J3WNH
-1| level shifter |https://www.amazon.de/gp/product/B082F6BSB5
+1| level shifter |https://www.amazon.de/gp/product/B0DWV8R2SM
 
 Wiring:
 
