@@ -20,7 +20,7 @@ elif machine.startswith('Generic ESP32'):
 np = NeoPixel(Pin(pin_no), NUMLED, bpp=3)
 
 def clear():
-    np.fill([0] * len(np))
+    np.fill([0, 0, 0] * len(np))
     
 def test():
     global np
