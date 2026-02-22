@@ -1,3 +1,16 @@
+# My Fork of Harvey71/emdr
+
+This project is a fork of [Original Repository](<https://github.com/Harvey71/emdr>), which is licensed under the **MIT License**.
+
+## Licensing
+
+The entire project, including the original code and my modifications, is licensed under the **MIT License**.
+
+Original code Copyright (c) 2024 Thomas Niebur  
+My changes Copyright (c) 2026 erbstueck
+
+See [LICENSE](LICENSE) for the full license text.
+
 # emdr
 
 Do It Yourself EMDR equipment (lightbar, buzzers and headphones). Firmware and controller app. 
