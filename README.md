@@ -320,3 +320,24 @@ and install all necessary software. For that, the Pi will have to have internet 
 local ethernet. After a while, the Pi reboots and shows the controller software. From now on, no network connection
 is needed again. You can use the Pi as a simple controller panel for the EMDR equipment. 
 
+### Standalone EMDR Lightbar with local Webserver
+No controller Pi needed: Works with any pc or smartphone in the same network.
+
+Find the software in */firmware/lightbar-webserver*.
+
+![controller](artwork/webpage-screenshot.png)
+
+
+- So far D1 mini only.
+- Works fine with D1 mini hardware section above.
+- Connects to a wifi network, configured in credentials.py on startup
+- Webserver reachable at given IP (dhcp), e.g. `http://192.168.1.5/`
+- Howto:
+    - Add your wifi credentials to credentials.py 
+    - Load main.py, neopixel.py, credentials.py to your microcontroller
+    - Open http page through your browser
+- No Buzzer support :x:
+- No Audio support :x:
+
+
+
